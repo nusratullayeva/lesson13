@@ -1,0 +1,228 @@
+.section002 {
+    margin-top: 90px;
+}
+
+.start-section002 h5 {
+    font-family: 'Open Sans';
+    font-size: 34px;
+    color: $secondry-color;
+}
+
+.start-section002 p {
+    padding-top: 14px;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 26px;
+    color: $money-color;
+    padding-bottom: 24px;
+}
+
+.btns4 {
+    display: flex;
+    column-gap: 7px;
+}
+
+.start-section002 .btns4 button:nth-child(2) {
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 47px;
+    height: 28px;
+    background: #FFFFFF;
+    border: 1px solid #D7D7D7;
+    border-radius: 90px;
+    cursor: pointer;
+}
+
+.start-section002 .btns4 button:nth-child(1) {
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: white;
+    width: 47px;
+    height: 28px;
+    background: $primary-color;
+    border: 1px solid #D7D7D7;
+    border-radius: 90px;
+    cursor: pointer;
+}
+
+.start-section002 .btns4 button:nth-child(3) {
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 73px;
+    height: 28px;
+    background: #FFFFFF;
+    border: 1px solid #D7D7D7;
+    border-radius: 90px;
+    cursor: pointer;
+}
+
+.start-section002 .btns4 button:nth-child(4) {
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 70px;
+    height: 28px;
+    background: #FFFFFF;
+    border: 1px solid #D7D7D7;
+    border-radius: 90px;
+    cursor: pointer;
+}
+
+.section2-cards {
+    display: flex;
+    align-items: center;
+    column-gap: 34px;
+    margin-top: 31px;
+}
+
+.section2-card {
+    width: 377px;
+    height: 377px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.h6-item {
+    padding-bottom: 30px;
+    padding-top: 24px;
+    padding-left: 33px;
+    width: 279px;
+    font-family: "Open Sans";
+    font-size: 24px;
+    line-height: 34px;
+    color: $secondry-color;
+}
+
+.item-btn {
+    cursor: pointer;
+    margin-left: 33px;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 43px;
+    height: 28px;
+    background: #F5F5F5;
+    border-radius: 90px;
+    border: none;
+}
+
+.item-btn2 {
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 70px;
+    height: 28px;
+    background: #F5F5F5;
+    border-radius: 90px;
+    border: none;
+}
+
+.item2-btn2 {
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 70px;
+    height: 28px;
+    background: #F5F5F5;
+    border-radius: 90px;
+    border: none;
+    margin-left: 33px;
+}
+
+.value-btn {
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 70px;
+    height: 28px;
+    background: #F5F5F5;
+    border-radius: 90px;
+    border: none;
+    margin-left: 33px;
+}
+
+.item-btn3 {
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 43px;
+    height: 28px;
+    background: #F5F5F5;
+    border-radius: 90px;
+    border: none;
+}
+
+.item-h6 {
+    padding-bottom: 30px;
+    padding-top: 24px;
+    padding-left: 33px;
+    width: 317px;
+    font-family: "Open Sans";
+    font-size: 24px;
+    line-height: 34px;
+    color: $primary-color;
+}
+
+.section002-cards {
+    margin-top: 30px;
+}
+
+.card1-section002 {
+    width: 787px;
+    height: 377px;
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.card1-section002 p {
+    padding-left: 33px;
+    width: 631px;
+    font-family: 'Open Sans';
+    font-size: 24px;
+    line-height: 34px;
+    color: $secondry-color;
+}
+
+.card2-section002 p {
+    padding-left: 33px;
+    width: 279px;
+    font-family: 'Open Sans';
+    font-size: 24px;
+    line-height: 34px;
+    color: $secondry-color;
+}
+
+.section002-cards {
+    display: flex;
+    align-items: center;
+    column-gap: 34px;
+}
+
+.card2-section002 {
+    width: 377px;
+    height: 377px;
+    background: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+.Design-btn {
+    cursor: pointer;
+    font-family: 'Open Sans';
+    font-size: 13px;
+    color: $money-color;
+    width: 70px;
+    height: 28px;
+    background: #F5F5F5;
+    border-radius: 90px;
+    border: none;
+    margin-left: 33px;
+}

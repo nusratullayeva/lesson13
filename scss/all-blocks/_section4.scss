@@ -1,0 +1,86 @@
+.section004 {
+    margin-top: 100px;
+    background: #FFEEE1;
+}
+
+.start-section004 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contanct {
+    padding-top: 62px;
+    padding-bottom: 17px;
+    font-family: 'Open Sans';
+    font-size: 34px;
+    color: $secondry-color;
+}
+
+.variblas {
+    width: 438px;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 26px;
+    color: $money-color;
+    padding-bottom: 34px;
+}
+
+.value-varible {
+    font-family: 'Open Sans';
+    font-size: 25px;
+    color: $money-color;
+}
+
+.value-varible2 {
+    font-family: 'Open Sans';
+    font-size: 25px;
+    color: $money-color;
+    padding-top: 19px;
+    padding-bottom: 90px;
+}
+
+.inputs {
+    margin-left: 100px;
+}
+
+::placeholder {
+    padding-left: 20px;
+    font-size: 16px;
+    color: #C6C6C6;
+}
+
+input {
+    border: none;
+    width: 280.29px;
+    height: 45px;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.input-text {
+    margin-top: 18px;
+    width: 565px;
+    height: 159px;
+}
+
+.Send {
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    width: 117px;
+    height: 53px;
+    background: $primary-color;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: 0.5s;
+}
+
+.Send:hover {
+    color: $primary-color;
+    border: 2px solid $primary-color;
+    background-color: transparent;
+    transition: 0.5s;
+}

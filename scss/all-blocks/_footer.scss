@@ -1,0 +1,31 @@
+.footer-ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 56px;
+}
+
+.footer-ul li a {
+    text-decoration: none;
+}
+
+.ul-footer {
+    margin-bottom: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 424px;
+}
+
+.ul-footer .about {
+    margin-top: 15px;
+    width: 105px;
+}
+
+.ul-footer li a {
+    text-decoration: none;
+}
+
+.policy {
+    width: 137px;
+}

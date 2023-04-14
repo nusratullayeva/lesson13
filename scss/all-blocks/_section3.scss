@@ -1,0 +1,74 @@
+.section003 {
+    margin-top: 96px;
+}
+
+.section003-h6 {
+    padding-bottom: 14px;
+    font-family: 'Open Sans';
+    font-size: 34px;
+    color: $secondry-color;
+}
+
+.section003-p {
+    width: 1032px;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 26px;
+    color: $money-color;
+}
+
+.section003-cards {
+    margin-top: 45px;
+}
+
+.section003-card1 {
+    position: relative;
+    width: 345px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.texts-x {
+    padding-top: 36px;
+    padding-left: 35px;
+    padding-bottom: 34px;
+}
+
+.value-item {
+    font-family: 'Open Sans';
+    font-size: 16px;
+    line-height: 26px;
+    color: $money-color;
+}
+
+.value-wrap {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    line-height: 26px;
+    color: $money-color;
+}
+
+.value-wrapp a {
+    font-family: 'Open Sans';
+    font-size: 14px;
+    color: #1943EF;
+    text-decoration: none;
+}
+
+.df {
+    display: flex;
+    align-items: center;
+}
+
+.img-wrap {
+    position: absolute;
+    left: 250px;
+    top: 8px;
+}
+
+.section003-cards {
+    display: flex;
+    align-items: center;
+    column-gap: 95px;
+}
